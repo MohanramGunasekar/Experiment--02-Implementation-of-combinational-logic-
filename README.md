@@ -6,7 +6,7 @@
 ## Aim:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
-F2=xy’z+x’y’z+w’xy+wx’y+wxy
+
  
 ## Equipments Required:
  Hardware – PCs, Cyclone II , USB flasher
@@ -46,12 +46,11 @@ A combinational circuit is a circuit in which the output depends on the present 
 ## RTL realization:
 ![Screenshot 2023-07-20 084849](https://github.com/MohanramGunasekar/Experiment--02-Implementation-of-combinational-logic-/assets/139841812/c0584c6d-765a-4202-ab3b-3501eebd8a90)
 ## Truth table:
-![Screenshot 2023-07-20 093851](https://github.com/MohanramGunasekar/Experiment--02-Implementation-of-combinational-logic-/assets/139841812/0543522c-14cf-4940-87e1-75da8ca6cc55)
-
+![Screenshot 2023-07-20 142704](https://github.com/MohanramGunasekar/Experiment--02-Implementation-of-combinational-logic-/assets/139841812/5c513a14-b697-4509-8cbd-e9a58fab05c2)
 
 ## Output waveform:
 ![image](https://github.com/MohanramGunasekar/Experiment--02-Implementation-of-combinational-logic-/assets/139841812/d479ef80-3fda-455c-b03b-7cc43a44fd5f)
 
 
 ## Result:
-Thus the given logic function is implemented using nand,not,nor  and their operations are verified using Verilog programming.
+Thus the given logic function is implemented using and their operations are verified using Verilog programming.
